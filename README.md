@@ -24,5 +24,4 @@ Aquí encontrarás información sobre varios **lenguajes de programación**, jun
 - 🎓 **Ivan Castro Gratovil**  
 
 
-**Repositorio**: [GitHub - ICB0005-UF1-PR01](https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo)  
-**Fecha de entrega**: 🚀 *[14/03/2025]*  
+**Fecha de entrega**: *[14/03/2025]*  

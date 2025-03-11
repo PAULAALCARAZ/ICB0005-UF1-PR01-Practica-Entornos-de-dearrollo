@@ -10,8 +10,8 @@ Aquí encontrarás información sobre varios **lenguajes de programación**, jun
 ## Contenido de la Wiki  
 
 ###  Lenguajes de Programación  
-- [☕ Java]([Java](https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Java))  
-- [🚀 Kotlin]([Kotlin](https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Kotlin))  
+- [☕ Java]([Java] (https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Java))  
+- [🚀 Kotlin]([Kotlin] (https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Kotlin))  
 - 
 
 ---

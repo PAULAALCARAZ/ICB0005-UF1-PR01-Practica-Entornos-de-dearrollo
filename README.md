@@ -10,8 +10,8 @@ Aquí encontrarás información sobre varios **lenguajes de programación**, jun
 ## Contenido de la Wiki  
 
 ###  Lenguajes de Programación  
-- [☕ Java](Java)  
-- [🚀 Kotlin](Kotlin)  
+- [☕ Java]([Java](https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Java))  
+- [🚀 Kotlin]([Kotlin](https://github.com/PAULAALCARAZ/ICB0005-UF1-PR01-Practica-Entornos-de-dearrollo/wiki/Kotlin))  
 - 
 
 ---
@@ -20,7 +20,7 @@ Aquí encontrarás información sobre varios **lenguajes de programación**, jun
  Este proyecto forma parte de la práctica **ICB0005-UF1-PR01**. Nuestro objetivo es documentar lenguajes de programación y aplicar **SCRUM** en la planificación de una aplicación.
 
  **Equipo**:  
-- 🎓 **Paula Benitez Alcaraz**  
+- 🎓 **Paula Yaqueline Alcaraz**  
 - 🎓 **Ivan Castro Gratovil**  
 
 
